@@ -1,1 +1,2 @@
 https://asciinema.org/a/FbEDsQMEbmjU89HvcJr6vXEgG
+[![Maintainability](https://api.codeclimate.com/v1/badges/496cd8232dc61cb3f210/maintainability)](https://codeclimate.com/github/EgorProzorov/CodeClimateLearing/maintainability)
